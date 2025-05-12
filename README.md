@@ -10,7 +10,7 @@ This repository is your one-stop shop for learning Kubernetes, whether you're a 
 - [Advanced](./advanced/)
 
 ## Special Segment: 
-- [Interview Questions](./interview-questions/): Thanks to @ManamBhatt for his collaboration with me.
+- [Interview Questions](./interview-questions/): Thanks to [@ManamBhatt](https://github.com/ManamBhatt)  for his collaboration with me.
 
 ## 🎯 Who is this for?
 - Beginners: Learn the fundamentals of Kubernetes.
