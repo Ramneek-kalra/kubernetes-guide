@@ -1,6 +1,6 @@
 # Kubernetes Guide
 
-Welcome to the **Kubernetes Guide** repository! 🚀
+Welcome to the **Kubernetes Guide** repository (AI Generated Repository to use AI for building Basics!)! 🚀
 
 This repository is your one-stop shop for learning Kubernetes, whether you're a beginner, intermediate user, or advanced practitioner. Each level is organized with detailed explanations, examples, and hands-on exercises.
 
