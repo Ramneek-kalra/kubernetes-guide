@@ -15,7 +15,7 @@ This repository is your one-stop shop for learning Kubernetes, whether you're a 
 - Advanced Users: Explore security, custom resources, and monitoring.
 
 ## 🤝 Contributing
-We welcome contributions! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+I welcome contributions! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ---
 
