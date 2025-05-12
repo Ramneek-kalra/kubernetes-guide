@@ -3,7 +3,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const guides = [
         { title: "Introduction to Kubernetes", link: "#" },
         { title: "Setting up Kubernetes Cluster", link: "#" },
-        { title: "Managing Kubernetes Workloads", link: "#" }
+        { title: "Managing Kubernetes Workloads", link: "#" },
+        { title: "Scaling and Monitoring", link: "#" },
+        { title: "Advanced Kubernetes Topics", link: "#" }
     ];
 
     guides.forEach(guide => {
