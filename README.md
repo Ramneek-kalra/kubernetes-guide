@@ -9,6 +9,9 @@ This repository is your one-stop shop for learning Kubernetes, whether you're a 
 - [Intermediate](./intermediate/)
 - [Advanced](./advanced/)
 
+## Special Segment: 
+- [Interview Questions](./interview-questions/): Thanks to @ManamBhatt for his collaboration with me.
+
 ## 🎯 Who is this for?
 - Beginners: Learn the fundamentals of Kubernetes.
 - Intermediate Users: Dive into networking, storage, and deployments.
